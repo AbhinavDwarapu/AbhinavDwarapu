@@ -1,7 +1,7 @@
 <h1 align="center"> Hey 👋, I'm Abhinav D.</h1>
 <h3 align="center"> Software Engineer, ML & Audio</h3>
 
-📫Reach out to me on my [LinkedIn](https://www.linkedin.com/in/abhinav-dwarapu/), or check out my stuff on my [Personal Website](https://abhinav.dwarapu.me)!
+📫Reach out to me on my [LinkedIn](https://www.linkedin.com/in/abhinav-dwarapu/), or check out my stuff here or on my [Personal Website](https://abhinav.dwarapu.me)!
 
 <h3 align="left">Some of my Languages and Tools:</h3>
 <p align="left"> 
