@@ -3,6 +3,8 @@
 
 📫Reach out to me on my [LinkedIn](https://www.linkedin.com/in/abhinav-dwarapu/), or check out my stuff here or on my [Personal Website](https://abhinav.dwarapu.me)!
 
+[My collection of web things](https://github.com/AbhinavDwarapu/cool-web-stuff).
+
 <h3 align="left">Some of my Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> 
