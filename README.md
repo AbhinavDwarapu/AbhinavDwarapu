@@ -5,8 +5,8 @@
 
 [My collection of web things](https://github.com/AbhinavDwarapu/cool-web-stuff).
 
-<h3 align="left">Some of my Languages and Tools:</h3>
-<p align="left"> 
+<h3 align="center">Some of my Languages and Tools</h3>
+<p align="center"> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a>
@@ -26,3 +26,9 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/blender" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=blender" alt="blender" width="40" height="40"/> </a> 
 </p>
 
+
+<h3 align="center">
+  <a href="https://buymeacoffee.com/abhinavd" target="_blank" rel="noreferrer">
+  <img width="200" height="56" alt="black-button" src="https://github.com/user-attachments/assets/00c133b6-f3b9-4564-876f-01f9f75374c7" />
+  </a>
+</h3>
