@@ -29,6 +29,6 @@
 
 <h3 align="center">
   <a href="https://buymeacoffee.com/abhinavd" target="_blank" rel="noreferrer">
-  <img width="200" height="56" alt="black-button" src="https://github.com/user-attachments/assets/00c133b6-f3b9-4564-876f-01f9f75374c7" />
+  <img width="150" height="42" alt="black-button" src="https://github.com/user-attachments/assets/00c133b6-f3b9-4564-876f-01f9f75374c7" />
   </a>
 </h3>
